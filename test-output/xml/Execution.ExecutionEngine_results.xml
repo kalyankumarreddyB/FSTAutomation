@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="All Labels FST"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="37.574">
+  <properties />
+  
+  
+            <testcase name="AlllabelsFST" time="37.574" classname="Execution.ExecutionEngine" />
+      
+</testsuite>

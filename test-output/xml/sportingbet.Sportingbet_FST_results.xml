@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sportingbet Bingo"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="282.932">
+  <properties />
+  
+  
+            <testcase name="sportingBetBingo" time="282.932" classname="sportingbet.Sportingbet_FST" />
+      
+</testsuite>

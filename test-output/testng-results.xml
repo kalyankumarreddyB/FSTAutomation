@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Site Launched:::https://bingo.galabingo.com/en/bingo/schedule?q=1]]>
+    </line>
+    <line>
+      <![CDATA[Getting game list]]>
+    </line>
+    <line>
+      <![CDATA[Tutorial Skipped]]>
+    </line>
+    <line>
+      <![CDATA[Balance before wager captured]]>
+    </line>
+    <line>
+      <![CDATA[ticketPrice is captured]]>
+    </line>
+    <line>
+      <![CDATA[Balance after wawger is captured]]>
+    </line>
+    <line>
+      <![CDATA[Wagered Amount]]>
+    </line>
+    <line>
+      <![CDATA[historyBoard invoked]]>
+    </line>
+    <line>
+      <![CDATA[historyBoard closed]]>
+    </line>
+    <line>
+      <![CDATA[Full House Window]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on bet history]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on bet history refresh]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on history sorting]]>
+    </line>
+    <line>
+      <![CDATA[Verified Game History]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for prebuy to load....]]>
+    </line>
+    <line>
+      <![CDATA[Prebuy popup invoked]]>
+    </line>
+    <line>
+      <![CDATA[Smiley's invoked]]>
+    </line>
+    <line>
+      <![CDATA[Verified Chat]]>
+    </line>
+    <line>
+      <![CDATA[Closed popup is displaying]]>
+    </line>
+    <line>
+      <![CDATA[Close the game window]]>
+    </line>
+    <line>
+      <![CDATA[Tutorial Skipped]]>
+    </line>
+    <line>
+      <![CDATA[Closed popup is displaying]]>
+    </line>
+    <line>
+      <![CDATA[Close the game window]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-05-02T16:14:38 IST" name="FST" finished-at="2024-05-02T16:18:06 IST" duration-ms="207534">
+    <groups>
+    </groups>
+    <test started-at="2024-05-02T16:14:38 IST" name="Gala Bingo" finished-at="2024-05-02T16:18:06 IST" duration-ms="207534">
+      <class name="gala.GalaBingo_FST">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gala.GalaBingo_FST@7b44b63d]" started-at="2024-05-02T16:14:38 IST" name="setUp" finished-at="2024-05-02T16:14:38 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:gala.GalaBingo_FST@7b44b63d]" started-at="2024-05-02T16:14:38 IST" name="browserLaunch" finished-at="2024-05-02T16:14:41 IST" duration-ms="2696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="galaBingo()[pri:0, instance:gala.GalaBingo_FST@7b44b63d]" started-at="2024-05-02T16:14:41 IST" name="galaBingo" finished-at="2024-05-02T16:18:05 IST" duration-ms="204098" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Site Launched:::https://bingo.galabingo.com/en/bingo/schedule?q=1]]>
+            </line>
+            <line>
+              <![CDATA[Getting game list]]>
+            </line>
+            <line>
+              <![CDATA[Tutorial Skipped]]>
+            </line>
+            <line>
+              <![CDATA[Balance before wager captured]]>
+            </line>
+            <line>
+              <![CDATA[ticketPrice is captured]]>
+            </line>
+            <line>
+              <![CDATA[Balance after wawger is captured]]>
+            </line>
+            <line>
+              <![CDATA[Wagered Amount]]>
+            </line>
+            <line>
+              <![CDATA[historyBoard invoked]]>
+            </line>
+            <line>
+              <![CDATA[historyBoard closed]]>
+            </line>
+            <line>
+              <![CDATA[Full House Window]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on bet history]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on bet history refresh]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on history sorting]]>
+            </line>
+            <line>
+              <![CDATA[Verified Game History]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for prebuy to load....]]>
+            </line>
+            <line>
+              <![CDATA[Prebuy popup invoked]]>
+            </line>
+            <line>
+              <![CDATA[Smiley's invoked]]>
+            </line>
+            <line>
+              <![CDATA[Verified Chat]]>
+            </line>
+            <line>
+              <![CDATA[Closed popup is displaying]]>
+            </line>
+            <line>
+              <![CDATA[Close the game window]]>
+            </line>
+            <line>
+              <![CDATA[Tutorial Skipped]]>
+            </line>
+            <line>
+              <![CDATA[Closed popup is displaying]]>
+            </line>
+            <line>
+              <![CDATA[Close the game window]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- galaBingo -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:gala.GalaBingo_FST@7b44b63d]" started-at="2024-05-02T16:18:05 IST" name="closeBrowser" finished-at="2024-05-02T16:18:06 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="shutDown()[pri:0, instance:gala.GalaBingo_FST@7b44b63d]" started-at="2024-05-02T16:18:06 IST" name="shutDown" finished-at="2024-05-02T16:18:06 IST" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+      </class> <!-- gala.GalaBingo_FST -->
+    </test> <!-- Gala Bingo -->
+  </suite> <!-- FST -->
+</testng-results>

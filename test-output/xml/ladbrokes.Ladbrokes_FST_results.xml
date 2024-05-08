@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ladbrokes Bingo"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="208.426">
+  <properties />
+  
+  
+            <testcase name="ladbrokesBingo" time="208.426" classname="ladbrokes.Ladbrokes_FST" />
+      
+</testsuite>

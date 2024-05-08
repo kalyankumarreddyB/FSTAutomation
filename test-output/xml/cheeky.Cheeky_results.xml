@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cheeky Bingo"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="375.890">
+  <properties />
+  
+  
+            <testcase name="cheekyBingo" time="375.890" classname="cheeky.Cheeky" />
+      
+</testsuite>

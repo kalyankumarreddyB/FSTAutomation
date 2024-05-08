@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FST" parallel="none" preserve-order="true">
+<listeners>
+
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		
+		<!-- <listener class-name="listenerData.RetryListner" />   -->
+		
+		<listener class-name="listenerData.CustomListeners" />
+
+	</listeners>
+	
+	
+  <test name="Ladbrokes Bingo">
+    <classes>
+ 	<class name="ladbrokes.Ladbrokes_E7"/>
+    
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

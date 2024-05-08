@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Labels FST" parallel="none" preserve-order="true">
+<listeners>
+
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		
+		<!-- <listener class-name="listenerData.RetryListner" />   -->
+		
+		<listener class-name="listenerData.CustomListeners" />
+
+	</listeners>
+	
+	<suite-files >
+	<suite-file path="./Foxy.xml"></suite-file>
+	<suite-file path="./Cheeky.xml"></suite-file>
+	<suite-file path="./Coral.xml"></suite-file>
+	<suite-file path="./Ladbrokes.xml"></suite-file>
+	<suite-file path="./Gala.xml"></suite-file>
+	<suite-file path="./SBCom.xml"></suite-file>
+	<suite-file path="./Betboo.xml"></suite-file>
+	<suite-file path="./Danskespil.xml"></suite-file>
+	<!--<suite-file path="./Borgata.xml"></suite-file>-->
+	</suite-files>
+</suite> <!-- Suite -->
